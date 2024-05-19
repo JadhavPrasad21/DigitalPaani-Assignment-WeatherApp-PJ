@@ -1,7 +1,7 @@
 # ⛈ Weather App
 Responsive weather app built with React.js and utilizes the OpenWeatherMap API to fetch and display weather information for a given location.
 # Live Preview
-Weather App is live and ready for you to explore! Visit [Weatherio.](https://weatherio-digitalpaani-pj.netlify.app/)
+The weather App is live and ready for you to explore! Visit [Weatherio.](https://weatherio-pj.netlify.app/)
 # App Overview
 ![Overview2](https://github.com/JadhavPrasad21/DigitalPaani-Assignment-WeatherApp-PJ/assets/86917788/af687e20-8976-4749-a497-825e01393d34)
 ![Overview](https://github.com/JadhavPrasad21/DigitalPaani-Assignment-WeatherApp-PJ/assets/86917788/955a2573-322a-47bd-b8e6-f47c9f5e8620)
